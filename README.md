@@ -1,6 +1,11 @@
 Meteor ServerSession
 =====================
 
+Minor extension of matteodem:server-session.  Update to make compatible w/ "check".
+
+From a client, call a server method and from within that method you do ServerSession.set("foo",bar).  Then from other 
+sever functions you can access w/ ServerSession.get("foo").
+
 This package provides a simple serverside implementation of the [Session](http://docs.meteor.com/#session). It uses the same API:
 
 ```javascript

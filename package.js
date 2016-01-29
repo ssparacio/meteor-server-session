@@ -1,7 +1,7 @@
 Package.describe({
     name: 'tewksbum:server-session',
     summary : "Serverside Session through a Meteor.Collection (get, set, equals etc.) w/ check",
-    version: "0.0.0",
+    version: "0.0.1",
     git: "https://github.com/tewksbum/meteor-server-session"
 });
 

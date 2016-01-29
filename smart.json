@@ -1,8 +1,8 @@
 {
   "name": "server-session",
-  "description": "Serverside Session through a Meteor.Collection (get, set, equals etc.)",
-  "homepage": "https://github.com/matteodem/meteor-server-session",
-  "author": "Matteo De Micheli",
-  "version": "0.4.1",
-  "git": "https://github.com/matteodem/meteor-server-session.git"
+  "description": "Serverside Session through a Meteor.Collection (get, set, equals etc.) w/ check",
+  "homepage": "https://github.com/tewksbum/meteor-server-session",
+  "author": "tewksbum",
+  "version": "0.0.1",
+  "git": "https://github.com/tewksbum/meteor-server-session"
 }
